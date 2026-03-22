@@ -27,7 +27,7 @@ This project is an audit of the open-source software Git. It explores its origin
 
 ### Step 1: Clone the repository
 
-git clone https://github.com/your-username/oss-audit--24BAS10107.git
+git clone https://github.com/GIRIDHAR S B/oss-audit--24BAS10107.git
 
 ### Step 2: Navigate to directory
 
