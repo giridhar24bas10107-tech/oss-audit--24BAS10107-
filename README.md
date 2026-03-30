@@ -9,7 +9,7 @@
 
 ## Chosen Software
 
-Git
+Linux 
 
 ## Project Description
 
